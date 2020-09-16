@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `nmp run dev`
+
+This will start the node server as well as the client application and 
+will update it changes. Use http://localhost:8000 to check the calls to 
+the node server and the response to client
+
 ### `yarn start`
 
 Runs the app in the development mode.<br />
